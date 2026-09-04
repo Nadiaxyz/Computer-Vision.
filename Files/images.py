@@ -1,6 +1,6 @@
 import cv2
 
-image = cv2.imread("../Images/piano (1).jpg")
+image = cv2.imread("../Images/piano (1).png")
 
 cv2.imshow("Shirt Image", image)
 
